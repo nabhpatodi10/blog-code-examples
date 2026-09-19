@@ -54,7 +54,7 @@ Stop and restart the API to recover queued or interrupted jobs. The database is 
 
 ## Companion article
 
-How to Track Background Job Progress in React and FastAPI is planned for 20 September 2026 on [Nabh's blog](https://nabhpatodi.com/blog/). This repository is the independently runnable companion.
+This repository is the independently runnable companion for the blog post [How to Track Background Job Progress in React and FastAPI](https://nabhpatodi.com/blog/how-to-track-background-job-progress-in-react-and-fastapi/).
 
 ## Verify the API
 
