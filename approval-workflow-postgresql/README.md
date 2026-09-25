@@ -1,6 +1,6 @@
 # Approval workflow: runnable PostgreSQL companion
 
-An original equipment-request example for [Approval Workflow Database Design: Requests, Versions and Review Tasks](https://nabhpatodi.com/blog/approval-workflow-design-states-roles-and-audit-trails/). It follows one request through submission, return for correction, resubmission, reassignment and approval.
+An original equipment-request example for **Approval Workflow Database Design: Requests, Versions and Review Tasks**. It follows one request through submission, return for correction, resubmission, reassignment and approval.
 
 ## Files
 
